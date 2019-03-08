@@ -1,0 +1,4 @@
+#Fri Mar 08 17:55:47 CET 2019
+base.0=F\:\\3.Workspace\\6.MobileDev\\testWrapAngularToAndroidApp\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
